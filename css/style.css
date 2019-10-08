@@ -790,7 +790,7 @@ input:focus::placeholder{ opacity: 0; }
   .main-nav.is-active .main-nav__link {
     text-align: center;
     padding: 20px;
-    font-size: 50px;
+    font-size: 30px;
     line-height: 60px;
   }
 
