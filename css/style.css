@@ -370,10 +370,10 @@ img{
           margin-right: auto; 
         }
         .place__likes::after{
-          content: url(/img/like.svg)
+          content: url(../img/like.svg)
         }
         .place__comments::after{
-          content: url(/img/msg.svg)
+          content: url(../img/msg.svg)
         }
         .place__likes::after,
         .place__comments::after{
